@@ -1,0 +1,25 @@
+{
+  "dietType": [
+    "low-sodium",
+    "renal",
+    "gluten-free",
+    "vegan"
+  ],
+  "activityLevel": "active",
+  "allergies": [
+    "peanuts",
+    "soy",
+    "eggs",
+    "tomato"
+  ],
+  "bodyMetrics": {
+    "weight": null,
+    "height": null
+  },
+  "location": {
+    "latitude": "35.73437290413705",
+    "longitude": "51.48629029829482"
+  },
+  "dislikes": "pizza",
+  "comments": "My heart hurts today\nI can't eat spicy food because of this."
+}

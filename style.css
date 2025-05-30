@@ -1,0 +1,204 @@
+/* styles.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+  /* Color Palette */
+  --primary-gradient-start: #ff9a9e;
+  --primary-gradient-end: #fad0c4;
+  --secondary-gradient-start: #a18cd1;
+  --secondary-gradient-end: #fbc2eb;
+  --bg-overlay: rgba(255,255,255,0.8);
+  --accent-color: #5e60ce;
+  --accent-hover: #4a48b6;
+  --text-dark: #2d3436;
+  --text-light: #ffffff;
+  --border: #dfe6e9;
+  --radius: 1rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --transition: 0.4s ease;
+  --shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, var(--primary-gradient-start), var(--secondary-gradient-end));
+  color: var(--text-dark);
+  overflow-x: hidden;
+  transition: background var(--transition), color var(--transition);
+}
+
+.dark-mode {
+  background: #1f1f2e;
+  color: var(--text-light);
+}
+
+.container {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: var(--spacing-lg);
+  background: var(--bg-overlay);
+  backdrop-filter: blur(10px);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  position: relative;
+}
+
+/* Decorative Floating Circles */
+.container::before,
+.container::after {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.3;
+}
+.container::before {
+  width: 150px;
+  height: 150px;
+  background: var(--secondary-gradient-start);
+  top: -50px;
+  right: -50px;
+}
+.container::after {
+  width: 120px;
+  height: 120px;
+  background: var(--primary-gradient-end);
+  bottom: -40px;
+  left: -40px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
+  margin-bottom: var(--spacing-lg);
+  background: linear-gradient(90deg, var(--accent-color), var(--accent-hover));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+label {
+  display: block;
+  margin-bottom: var(--spacing-sm);
+  font-weight: 600;
+  color: var(--accent-color);
+  transition: color var(--transition);
+}
+
+/* Form Controls */
+input[type="text"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.95rem;
+  transition: border-color var(--transition), box-shadow var(--transition);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 8px rgba(94, 96, 206, 0.4);
+}
+
+/* Checkbox Layout */
+.checkbox-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+}
+.checkbox-group label {
+  display: flex;
+  align-items: center;
+  background: var(--bg-overlay);
+  padding: var(--spacing-sm);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition);
+}
+.checkbox-group input {
+  margin-right: var(--spacing-sm);
+}
+.checkbox-group label:hover {
+  background: var(--secondary-gradient-start);
+  border-color: var(--accent-hover);
+}
+
+/* Button */
+.btn {
+  display: inline-block;
+  width: 100%;
+  padding: var(--spacing-md);
+  background: linear-gradient(45deg, var(--accent-color), var(--accent-hover));
+  color: var(--text-light);
+  font-weight: 600;
+  font-size: 1rem;
+  text-align: center;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: transform var(--transition), box-shadow var(--transition);
+  box-shadow: 0 8px 16px rgba(94, 96, 206, 0.4);
+}
+.btn:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(94, 96, 206, 0.6);
+}
+
+
+/* Dark Mode Toggle */
+.dark-toggle {
+  position: fixed;
+  top: var(--spacing-md);
+  right: var(--spacing-md);
+  background: var(--text-light);
+  padding: var(--spacing-sm);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.25rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform var(--transition);
+}
+.dark-toggle:hover {
+  transform: rotate(90deg);
+}
+
+#loader {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(255,255,255,0.7);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid var(--border);
+  border-top: 5px solid var(--accent-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+

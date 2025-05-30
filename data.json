@@ -1,0 +1,2994 @@
+[
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large Meat Lovers",
+    "description":"Whole pie.",
+    "price":"15.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large Supreme",
+    "description":"Whole pie.",
+    "price":"15.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large Pepperoni",
+    "description":"Whole pie.",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large BBQ Chicken &amp; Bacon",
+    "description":"Whole Pie",
+    "price":"15.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large 5 Cheese",
+    "description":"Whole pie.",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large Pepperoni Slice",
+    "description":"Slice.",
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large BBQ Chicken &amp; Bacon Slice",
+    "description":null,
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large Meat Lovers Slice",
+    "description":"Slice.",
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large Supreme Slice",
+    "description":"Slice.",
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Extra Large Pizza",
+    "name":"Extra Large 5 Cheese Slice",
+    "description":"Slice.",
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Jumbo Wings",
+    "name":"Jumbo Chicken Wings Five Pieces",
+    "description":null,
+    "price":"8.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Jumbo Wings",
+    "name":"Jumbo Chicken Wings Seven Pieces",
+    "description":null,
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Jumbo Wings",
+    "name":"Jumbo Chicken Wings Nine Pieces",
+    "description":null,
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Jumbo Wings",
+    "name":"Jumbo Chicken Wings Twelve Pieces",
+    "description":null,
+    "price":"15.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Spicy Jumbo Wings",
+    "name":"Jumbo Spicy Chicken Wings Five Pieces",
+    "description":null,
+    "price":"8.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Spicy Jumbo Wings",
+    "name":"Jumbo Spicy Chicken Wings Seven Pieces",
+    "description":null,
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Spicy Jumbo Wings",
+    "name":"Jumbo Spicy Chicken Wings Nine Pieces",
+    "description":null,
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Spicy Jumbo Wings",
+    "name":"Jumbo Spicy Chicken Wings Twelve Pieces",
+    "description":null,
+    "price":"15.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Chicken Tenders",
+    "name":"Five Chicken Tenders",
+    "description":null,
+    "price":"8.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Chicken Tenders",
+    "name":"Seven Chicken Tenders",
+    "description":null,
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Chicken Tenders",
+    "name":"Nine Chicken Tenders",
+    "description":null,
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Chicken Tenders",
+    "name":"Twelve Chicken Tenders",
+    "description":null,
+    "price":"15.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Grab and Go Cheese It",
+    "description":"3oz.",
+    "price":"1.89 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Doritos Nacho",
+    "description":"3.125oz.",
+    "price":"1.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Lay's Classic",
+    "description":"2.75oz.",
+    "price":"1.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Ruffles Cheddar and Sour Cream",
+    "description":"2.625oz.",
+    "price":"1.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Doritos Cool Ranch",
+    "description":"3.125oz.",
+    "price":"1.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Cheetos Crunchy",
+    "description":"3.5oz.",
+    "price":"1.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Funyuns",
+    "description":"2.375oz.",
+    "price":"1.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Chex Mix Traditional",
+    "description":"3.75oz.",
+    "price":"2.69 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Combos Pretzel With Cheddar Cheese",
+    "description":"6.30oz.",
+    "price":"2.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Snak Club Family Size Energizer Trail Mix",
+    "description":"16oz.",
+    "price":"7.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Wonderful Roasted and Salted Pistachios",
+    "description":"8oz.",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Wonderful Roasted and Salted Unshelled Pistachios",
+    "description":"6oz.",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Wonderful Roasted and Salted Pistachios",
+    "description":"16oz",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Jack Links Original Jerky",
+    "description":"5.85oz.",
+    "price":"13.49 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Jack Links Peppered Jerky",
+    "description":"5.85oz.",
+    "price":"13.49 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Jack Links Teriyaki Jerky",
+    "description":"5.85oz.",
+    "price":"13.49 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Old Trapper Old Fashion Jerky",
+    "description":"10oz.",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Snacks",
+    "name":"Old Trapper Peppered Jerky",
+    "description":"10oz.",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Haribo Gold Bears",
+    "description":"8oz.",
+    "price":"2.69 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Hershey Almond King Size",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Hershey Bar Milk Chocolate King Size",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Kit Kat King Size",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"M and M Peanut King Size",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Payday King",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Reese Cup King Size",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Reese Fast Break King Size",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Reese Sticks King Size",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Snickers King Two Piece",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Candy",
+    "name":"Twix Caramel King",
+    "description":null,
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Pastries",
+    "name":"Bon Appetit Cheese and Berry Danish",
+    "description":"Single.",
+    "price":"2.69 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Pastries",
+    "name":"Bon Appetit Cheese Croissant",
+    "description":"Single.",
+    "price":"2.69 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Pastries",
+    "name":"Bon Appetit Apple Turnover",
+    "description":"Single.",
+    "price":"2.69 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Pastries",
+    "name":"Bon Appetit Bluberry Cream Danish",
+    "description":"Single.",
+    "price":"2.69 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Pastries",
+    "name":"Rice Krispies Treat Original Big Bar",
+    "description":"2.2oz.",
+    "price":"1.89 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Coffee",
+    "name":"Monster Java Mean Bean",
+    "description":"15oz can.",
+    "price":"3.49 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Coffee",
+    "name":"Monster Java Loca Moca",
+    "description":"15oz can.",
+    "price":"3.49 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Coffee",
+    "name":"Monster Java Sltd Crml",
+    "description":"15oz can.",
+    "price":"3.49 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Coffee",
+    "name":"Starbucks Frapp Mocha",
+    "description":"7oz bottle.",
+    "price":"3.79 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Coffee",
+    "name":"Starbucks Frapp Van",
+    "description":"7oz bottle.",
+    "price":"3.79 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Coffee",
+    "name":"Starbucks Frapp Crml Macchiato",
+    "description":"7oz bottle.",
+    "price":"3.79 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Energy",
+    "name":"Monster",
+    "description":"16oz can.",
+    "price":"3.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Energy",
+    "name":"Monster Zero Ultra",
+    "description":"16oz can.",
+    "price":"3.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Energy",
+    "name":"Monster Ultra Paradise",
+    "description":"16oz can.",
+    "price":"3.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Energy",
+    "name":"Red Bull",
+    "description":"12oz can.",
+    "price":"3.79 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Energy",
+    "name":"Red Bull Sugar Free",
+    "description":"12oz can.",
+    "price":"3.79 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Energy",
+    "name":"Red Bull Blue Berry",
+    "description":"12oz can.",
+    "price":"3.79 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Energy",
+    "name":"Five Hour Energy Ex Strong Berry",
+    "description":"3oz bottle.",
+    "price":"4.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Juice",
+    "name":"Tropicana Orange No Pulp",
+    "description":"12oz.",
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Juice",
+    "name":"Tropicana Prem Orange Hmstl Pulp",
+    "description":"12oz bottle.",
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Juice",
+    "name":"Tropicana Apple",
+    "description":"12oz.",
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Diet Coke",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Diet Mountain Dew",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Diet Pepsi",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Dr Pepper",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Mountain Dew",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Mountain Dew Code Red",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Pepsi",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Sprite",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Canada Dry Ginger Ale",
+    "description":"20oz bottle.",
+    "price":"2.29 USD"
+  },
+  {
+    "restaurant_id":1,
+    "category":"Soda",
+    "name":"Coca Cola",
+    "description":"20oz bottle.",
+    "price":"2.39 USD"
+  },
+  
+    "price":"6.99 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"NEW Kids Mexican Street Corn Chowder",
+    "description":"210 Cal. Sweet corn, fire-roasted poblano peppers, russet potatoes, chile powder, lime juice and cilantro in a creamy broth topped with Blue Corn Tortilla Strips. Allergens: Contains Milk",
+    "price":"6.99 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Broccoli Cheddar Soup",
+    "description":"230 Cal. Chopped broccoli, shredded carrots and select seasonings simmered in a velvety smooth cheese sauce. Allergens: Contains Wheat, Milk",
+    "price":"6.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Homestyle Chicken Noodle Soup",
+    "description":"60 Cal. Tender pieces of white-meat chicken simmered in a rich, perfectly seasoned homestyle chicken bone broth with curly egg noodles, sliced carrots, celery and herbs. Allergens: Contains Wheat, Egg",
+    "price":"6.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Creamy Tomato Soup",
+    "description":"240 Cal. Vine-ripened pear tomatoes pureed with fresh cream for a velvety smooth flavor accented by hints of red pepper and oregano and topped with black pepper focaccia croutons. Allergens: Contains Wheat, Milk",
+    "price":"6.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Cream of Chicken &amp; Wild Rice Soup",
+    "description":"180 Cal. Diced chicken, long grain and wild rice, celery, onion and carrots simmered in chicken stock with cream and select herbs. Allergens: Contains Wheat, Milk",
+    "price":"6.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Bistro French Onion Soup",
+    "description":"190 Cal. Sweet caramelized onions in a savory broth with a sherry wine vinegar gastrique,  sea salt, topped with gruyere and  our homemade black pepper focaccia croutons. Allergens: Contains Wheat, Soy, Milk",
+    "price":"6.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Grilled Cheese",
+    "description":"230 Cal. Sliced American cheese grilled on White Whole Grain Bread. Allergens: Contains Wheat, Milk",
+    "price":"5.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Turkey Sandwich",
+    "description":"290 Cal. Oven-roasted turkey breast raised without antibiotics and American cheese on White Whole Grain Bread. Allergens: Contains Wheat, Milk",
+    "price":"5.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Roasted Turkey &amp; Avocado BLT",
+    "description":"470 Cal. Roasted turkey raised without antibiotics, Applewood-smoked bacon, emerald green, vine-ripened tomatoes, fresh avocado, mayo, salt, and pepper on Country Rustic Sourdough. Allergens: Contains Wheat, Egg",
+    "price":"9.59 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Grilled Mac &amp; Cheese Sandwich",
+    "description":"430 Cal. Creamy Mac &amp; Cheese with our fontina and mozzarella cheese blend and parmesan crisps on toasted thick-sliced Classic White Miche. Allergens: Contains Wheat, Milk, Egg",
+    "price":"8.79 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Toasted Steak &amp; White Cheddar",
+    "description":"470 Cal. Grass fed beef, aged white cheddar, pickled red onions and horseradish sauce on Artisan Ciabatta. Allergens: Contains Wheat, Milk, Egg",
+    "price":"9.59 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Tuna Salad Sandwich",
+    "description":"370 Cal. Special recipe tuna salad, emerald greens, vine-ripened tomatoes, red onions, salt and pepper on Black Pepper Foccacia. Allergens: Contains Wheat, Egg, Fish",
+    "price":"7.19 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Napa Almond Chicken Sandwich",
+    "description":"310 Cal. Chicken raised without antibiotics tossed with diced celery, seedless grapes, toasted almonds and special dressing, and served with emerald green lettuce, vine-ripened tomatoes, salt, and pepper on Country Rustic Sourdough. Allergens: Contains Wheat, Egg, Tree Nuts",
+    "price":"7.19 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"NEW Kids Citrus Asian Crunch Salad with Chicken",
+    "description":"320 Cal. Romaine and a blend of chopped broccoli, green cabbage, carrots, and kale tossed with edamame, pickled red onions, and fresh cilantro in tangerine soy ginger dressing and topped with warm seared chicken thigh meat, crispy carrots, and a teriyaki drizzle. Allergens: Contains Wheat, Soy",
+    "price":"9.89 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Chicken Caesar Salad",
+    "description":"220 Cal. Chicken raised without antibiotics, romaine, grated Parmesan and homemade black pepper focaccia croutons tossed with Caesar dressing. Allergens: Contains Wheat, Milk, Egg, Fish",
+    "price":"8.79 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Green Goddess Cobb Salad with Chicken",
+    "description":"250 Cal. Chicken raised without antibiotics, arugula, romaine, baby kale and red leaf blend, grape tomatoes and pickled red onions tossed in freshly made Green Goddess dressing and topped with fresh avocado, Applewood-smoked bacon and cage-free hard-boiled egg. Allergens: Contains Milk, Egg",
+    "price":"9.89 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Greek Salad",
+    "description":"200 Cal. Romaine, grape tomatoes, feta, red onions, kalamata olives, salt and pepper tossed in Greek dressing with a pepperoncini. Allergens: Contains Milk",
+    "price":"6.79 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Asian Sesame Chicken Salad",
+    "description":"200 Cal. Chicken raised without antibiotics, mixed greens, cilantro, toasted almonds, sesame seeds and wonton strips tossed in Asian sesame vinaigrette. Allergens: Contains Wheat, Tree Nuts. May contain Egg",
+    "price":"8.79 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Caesar Salad",
+    "description":"170 Cal. Romaine, grated Parmesan and homemade black pepper focaccia croutons tossed with Caesar dressing. Allergens: Contains Wheat, Milk, Egg, Fish",
+    "price":"6.79 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Fuji Apple Salad with Chicken",
+    "description":"280 Cal. Chicken raised without antibiotics, arugula, romaine, baby kale and red leaf blend, grape tomatoes, red onions, toasted pecan pieces, Gorgonzola and apple chips tossed in sweet white balsamic vinaigrette. Allergens: Contains Milk, Tree Nuts",
+    "price":"8.79 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Kids Cheese Flatbread Pizza",
+    "description":"860 Cal. Fontina mozzarella cheese blend and tomato bell pepper sauce on our flatbread. Allergens: Contains Wheat, Milk",
+    "price":"9.59 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Horizon Reduced Fat Organic White Milk",
+    "description":"110 Cal. Organic White Milk. Allergens: Contains Milk",
+    "price":"2.19 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Horizon Reduced Fat Organic Chocolate Milk",
+    "description":"150 Cal. Organic Chocolate Milk. Allergens: Contains Milk",
+    "price":"2.19 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Kids",
+    "name":"Organic Apple Juice",
+    "description":"110 Cal. Organic Apple Juice. Allergens: none",
+    "price":"2.19 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Sides &amp; Spreads",
+    "name":"French Baguette",
+    "description":"180 Cal. Freshly baked bread with a slightly blistered crust and a wine-like aroma. Allergens: Contains Wheat",
+    "price":"1.09 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Sides &amp; Spreads",
+    "name":"Chips",
+    "description":"150 Cal. Panera kettle-cooked potato chips. Allergens: none",
+    "price":"1.09 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Sides &amp; Spreads",
+    "name":"Apple",
+    "description":"80 Cal. Fresh apple. Allergens: none",
+    "price":"1.09 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Sides &amp; Spreads",
+    "name":"Banana",
+    "description":"90 Cal. Banana Allergens: none",
+    "price":"1.09 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Sides &amp; Spreads",
+    "name":"Hard Boiled Eggs - 2 Pack",
+    "description":"150 Cal. Hard boiled eggs and emerald greens. Pack of 2. Allergens: Contains Egg",
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Sides &amp; Spreads",
+    "name":"Strawberry Squeezable Yogurt",
+    "description":"50 Cal. Strawberry Squeezable Yogurt. Allergens: Contains Milk",
+    "price":"1.49 USD"
+  },
+  {
+    "restaurant_id":14,
+    "category":"Sides &amp; Spreads",
+    "name":"Mixed Berry Squeezable Yogurt",
+    "description":"50 Cal. Mixed Berry Squeezable Yogurt. Allergens: Contains Milk",
+    "price":"1.49 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Picked for you",
+    "name":"Lamb Deluxe Biryani",
+    "description":"Boneless lamb chunks cooked in a special biryani masala curry, layered with imported long grain rice and steamed till cooked and smoked with coal\n",
+    "price":"23.53 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Picked for you",
+    "name":"Death by Samosa",
+    "description":"Filo pastry turnovers, filled with a peas and potatoes stuffing sauteed with cumin, turmeric and chilies",
+    "price":"8.35 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Picked for you",
+    "name":"Crispy Onion Fritters",
+    "description":"Finely chopped onions with thick batter fried in oil and served in a plate.\n",
+    "price":"8.35 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Picked for you",
+    "name":"Smoky Chicken Tikka",
+    "description":"Tender chicken chunks simmered in a thick, tangy tomato and onion masala gravy \n",
+    "price":"20.87 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Picked for you",
+    "name":"Chicken Deluxe Biryani",
+    "description":"Tender chicken morsels cooked in a special biryani masala curry, layered with imported long grain rice and steamed till cooked and smoked with coal\n",
+    "price":"22.26 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Appetizers ",
+    "name":"Death by Samosa",
+    "description":"Filo pastry turnovers, filled with a peas and potatoes stuffing sauteed with cumin, turmeric and chilies",
+    "price":"8.35 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Appetizers ",
+    "name":"Crispy Onion Fritters",
+    "description":"Finely chopped onions with thick batter fried in oil and served in a plate.\n",
+    "price":"8.35 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Appetizers ",
+    "name":"Tantalizing Tandoori Chicken",
+    "description":"Bone-in spring chicken seasoned in a yogurt tandoori marinade, skewered and grilled in a traditional coal oven",
+    "price":"25.05 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Vegetarian Entrees",
+    "name":"Curried Okra Masala",
+    "description":"Garden fresh okra wok tossed with onions, chilies and whole spice mix \n",
+    "price":"18.09 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Vegetarian Entrees",
+    "name":"Eggplant Mish Mashed",
+    "description":"Fire roasted and smoked eggplant mashed and tossed in spices\n",
+    "price":"18.09 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Vegetarian Entrees",
+    "name":"Chickpea Curry",
+    "description":"Chickpeas, soaked overnight and simmered to perfection in a gently spiced onion &amp; tomato curry \n",
+    "price":"18.09 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Vegetarian Entrees",
+    "name":"Black Knight Lentils",
+    "description":"Mixed black lentils, lightly tempered and simmered on a low flame till soft and creamy \n",
+    "price":"16.7 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Vegetarian Entrees",
+    "name":"Cottage Cheese &amp; Spinach",
+    "description":"Fresh cubes of cottage cheese simmered in a thick, creamy spinach curry",
+    "price":"20.87 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Vegetarian Entrees",
+    "name":"Garnish Paneer Masala",
+    "description":"Fresh cottage cheese cubes simmered in a thick, tangy tomato and onion masala gravy \n",
+    "price":"20.87 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Non-Vegetarian Entrees",
+    "name":"Lavish Lamb Vindaloo",
+    "description":"Lamb pieces are marinated and cooked with spices and chilies giving an authentic goan style taste.\n",
+    "price":"22.26 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Non-Vegetarian Entrees",
+    "name":"Smoky Chicken Tikka",
+    "description":"Tender chicken chunks simmered in a thick, tangy tomato and onion masala gravy \n",
+    "price":"20.87 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Non-Vegetarian Entrees",
+    "name":"Chicken &amp; Spinach",
+    "description":"Tender chicken chunks simmered in a thick, creamy spinach curry ",
+    "price":"20.87 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Breads &amp; Rice",
+    "name":"Vegetable Deluxe Biryani",
+    "description":"Seasonal veggies cooked in a special biryani masala curry, layered with imported long grain rice and steamed till cooked and smoked with coal\n",
+    "price":"20.87 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Breads &amp; Rice",
+    "name":"Chicken Deluxe Biryani",
+    "description":"Tender chicken morsels cooked in a special biryani masala curry, layered with imported long grain rice and steamed till cooked and smoked with coal\n",
+    "price":"22.26 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Breads &amp; Rice",
+    "name":"Lamb Deluxe Biryani",
+    "description":"Boneless lamb chunks cooked in a special biryani masala curry, layered with imported long grain rice and steamed till cooked and smoked with coal\n",
+    "price":"23.53 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Breads &amp; Rice",
+    "name":"Butter Naan",
+    "description":"Fresh made leavened dough baked in a traditional coal oven and smothered with butter \n",
+    "price":"5.57 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Breads &amp; Rice",
+    "name":"Garlic Naan",
+    "description":"Fresh made leavened dough led with garlic and baked in a traditional coal oven\n",
+    "price":"5.57 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Breads &amp; Rice",
+    "name":"Tandoori Roti",
+    "description":"Whole wheat roti, baked in a traditional coal oven \n",
+    "price":"5.57 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Desserts &amp; Beverages",
+    "name":"Classic Gulab Jamun ",
+    "description":"Village cheese dumplings deep fried and steeped in a cardamom infused sugar syrup \n",
+    "price":"7.26 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Desserts &amp; Beverages",
+    "name":"Yogurt Smoothie",
+    "description":"A thick smoothie made with fresh churned yogurt, flavored to your taste\n",
+    "price":"5.57 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Desserts &amp; Beverages",
+    "name":"Mango Yogurt Smoothie",
+    "description":"A thick smoothie made with fresh yogurt and flavored with premium mango pulp\n",
+    "price":"5.57 USD"
+  },
+  {
+    "restaurant_id":15,
+    "category":"Desserts &amp; Beverages",
+    "name":"Soda",
+    "description":"The real thirst quencher\n",
+    "price":"4.17 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Picked for you",
+    "name":"Gooey Butter Cake Pint",
+    "description":"Cream cheese ice cream layered with crumbles of soft vanilla cake and swirls of made-from-scratch caramel-butterscotch sauce._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, egg",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Picked for you",
+    "name":"Brambleberry Crisp Pint",
+    "description":"Oven-toasted oat streusel and a sweet-tart \u00e2\u20ac\u0153brambleberry\u00e2\u20ac\u009d jam of blackberries and blackcurrants layered throughout vanilla ice cream._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nContains: milk, wheat",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Picked for you",
+    "name":"Brown Butter Almond Brittle Pint",
+    "description":"Brown-butter-almond candy crushed into buttercream ice cream._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, tree nut (almonds)",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Picked for you",
+    "name":"Milkiest Chocolate Pint",
+    "description":"An ultra-lush milky chocolate, like a fine Swiss bar. Evaporated milk imparts concentrated milkiness and delightful chewiness._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Picked for you",
+    "name":"Salted Peanut Butter with Chocolate Flecks Pint",
+    "description":"Salted and roasted ground peanuts with grass-grazed milk and crunchy, dark chocolate flecks._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, soy, peanut",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Blackout Chocolate Cake Pint",
+    "description":"A chocolate ice cream quadruple threat with cake, extra-bitter fudge, and chocolate pieces._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nContains: milk, soy, wheat",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Brambleberry Crisp Pint",
+    "description":"Oven-toasted oat streusel and a sweet-tart \u00e2\u20ac\u0153brambleberry\u00e2\u20ac\u009d jam of blackberries and blackcurrants layered throughout vanilla ice cream._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nContains: milk, wheat",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Brown Butter Almond Brittle Pint",
+    "description":"Brown-butter-almond candy crushed into buttercream ice cream._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, tree nut (almonds)",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Buttercream Birthday Cake Pint",
+    "description":"Buttercream frosting, golden cake, and a rainbow of sprinkles. What every birthday cake should taste like._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, egg",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Caramel Pecan Sticky Buns Pint",
+    "description":"Rich coconut cream loaded with sticky bun pieces, dark caramel, and roasted pecans. _x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nVegan_x000D_\nContains: tree nut (pecans, coconut), peanut, wheat",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Coffee With Cream &amp; Sugar Pint",
+    "description":"Intelligentsia coffee steeped in cream. The sweet, complex flavor and robust aroma of freshly brewed coffee shines through._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Cold Brew With Coconut Cream Pint",
+    "description":"Light and bright Slingshot Coffee cold brew sorbet twisted with lush coconut cream._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nVegan_x000D_\nContains: tree nut (coconut)",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Darkest Chocolate Pint",
+    "description":"Mouth-filling and palate-gripping with a pleasingly dry finish. The most amount of Fair Trade cocoa and the least amount of anything else._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Fros\u00c3\u00a9 Sorbet Pint",
+    "description":"Sangria-style frozen ros\u00c3\u00a9 with pear, strawberry, and watermelon. Refreshing and bright with a tinge of tartness._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nVegan",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Gooey Butter Cake Pint",
+    "description":"Cream cheese ice cream layered with crumbles of soft vanilla cake and swirls of made-from-scratch caramel-butterscotch sauce._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, egg",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Honey Vanilla Bean Pint",
+    "description":"A vanilla to end all vanillas. Made with Fair Trade vanilla beans that are warm and complex in flavor and a perfect partner for a touch of honey and grass-grazed milk._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Lemon &amp; Blueberries Parfait Buttermilk Frozen Yogurt Pint",
+    "description":"Tart and uber creamy lemon with from-scratch blueberry jam in fresh cultured buttermilk and cream._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Milkiest Chocolate Pint",
+    "description":"An ultra-lush milky chocolate, like a fine Swiss bar. Evaporated milk imparts concentrated milkiness and delightful chewiness._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Powdered Jelly Donut Pint",
+    "description":"Vanilla custard, raspberry jam, and a brown sugar donut crumble._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nContains: milk, egg, wheat ",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Rainbow BFY Pint",
+    "description":"A smashing combination of tastes and aromas: passion fruit, raspberry, and key lime_x000D_\nyogurts. Tropical, tart, and uber creamy._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Salted Peanut Butter with Chocolate Flecks Pint",
+    "description":"Salted and roasted ground peanuts with grass-grazed milk and crunchy, dark chocolate flecks._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, soy, peanut",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Salty Caramel Pint",
+    "description":"Fire-toasted sugar with sea salt, vanilla, and grass-grazed milk. A perfect balance of salty and sweet._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Savannah Buttermint Pint",
+    "description":"A buttery after dinner mint ice cream with white chocolate flecks._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk, soy",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Strawberry Buttermilk Pint",
+    "description":"Grown-for-us Ohio strawberries blended with cream and cultured buttermilk for subtle tartness._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Sweet Cream Biscuits &amp; Peach Jam Pint",
+    "description":"Buttermilk ice cream, crumbled biscuits, and swirls of peach jam._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nContains: milk, wheat",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Texas Sheet Cake Pint",
+    "description":"Decadent chocolate cake crumbles, bittersweet fudge, and palate-gripping cocoa. Big, bold, beautiful._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nVegan_x000D_\nContains: wheat, tree nut (coconut)",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Pints",
+    "name":"Wildberry Lavender Pint",
+    "description":"Intensely fruity with the brambly berry flavor of pulverized blackcurrants. Scented with sweet orange and lavender essential oils._x000D_\n_x000D_\n(Pints may come hand-packed if pre-packed pints are sold out.)_x000D_\n_x000D_\nGluten-Free_x000D_\nContains: milk",
+    "price":"14.0 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Cones, Sprinkles &amp; Sauces",
+    "name":"Buttercrisp Waffle Cones",
+    "description":"Jeni\u00e2\u20ac\u2122s unique recipe! Buttery and nutty with a hint of salt\u00e2\u20ac\u201d the perfect flavor pairing for all of our ice creams. (Comes in a set of 5.)_x000D_\n_x000D_\nContains: milk, soy, egg, wheat",
+    "price":"11.7 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Cones, Sprinkles &amp; Sauces",
+    "name":"Buttercrisp Waffle Wedges",
+    "description":"Jeni\u00e2\u20ac\u2122s unique recipe! Buttery and nutty with a hint of salt\u00e2\u20ac\u201d the perfect flavor pairing for all of our ice creams. (Comes in a set of  8.)_x000D_\n_x000D_\nContains: milk, soy, egg, wheat",
+    "price":"2.35 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Cones, Sprinkles &amp; Sauces",
+    "name":"Cake Cones",
+    "description":"Classic, slightly salty cake cones. Made on vintage cast-iron equipment by our friends at Jagger Cone. _x000D_\n_x000D_\nIncludes 12 cones carefully packaged in our shops. Please note, cones could chip and crumble a bit during delivery transport._x000D_\n_x000D_\n_x000D_\nVegan_x000D_\nContains: soy, wheat",
+    "price":"5.85 USD"
+  },
+  {
+    "restaurant_id":16,
+    "category":"Cones, Sprinkles &amp; Sauces",
+    "name":"Sugar Cones",
+    "description":"Flaky cones with great caramelized flavor. Made on vintage cast-iron equipment by our friends at Jagger Cone. _x000D_\n_x000D_\nIncludes 12 cones carefully packaged in our shops. Please note, cones could chip and crumble a bit during delivery transport. _x000D_\n_x000D_\nVegan_x000D_\nContains: soy, wheat",
+    "price":"5.85 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Combos",
+    "name":"Fish &amp; Wings (6 pcs)",
+    "description":"2pc fish, fries, and drink.",
+    "price":"13.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Combos",
+    "name":"Shrimp &amp; Wings (6 pcs)",
+    "description":"Bpc fried shrimp, 6 wings, fries, and drink.",
+    "price":"13.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Combos",
+    "name":"Shrimp (10 pcs)",
+    "description":"10 pieces fried shrimp, fries, and drink.",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Combos",
+    "name":"Burger &amp; Wings (6 pcs)",
+    "description":"Served with 6 wings, fries, and drink.",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Combos",
+    "name":"Philly &amp; Wings (6 pcs)",
+    "description":"Philly steak sandwich, bpc wings, fries, and drink.",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Combos",
+    "name":"Fish &amp; Shrimp",
+    "description":"2 pieces fish plus shrimp, fries, and drink.",
+    "price":"13.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Sides",
+    "name":"Fries",
+    "description":null,
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Sides",
+    "name":"Okra",
+    "description":null,
+    "price":"2.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Sides",
+    "name":"Onion Rings",
+    "description":null,
+    "price":"2.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Sides",
+    "name":"Fries with Cheese",
+    "description":null,
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Sides",
+    "name":"Fries with Ranch",
+    "description":null,
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Sides",
+    "name":"Fries with Cheese and Ranch",
+    "description":null,
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Fish",
+    "name":"Tilapia",
+    "description":"Two pieces with one side.",
+    "price":"9.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Fish",
+    "name":"Catfish",
+    "description":"Two pieces with one side.",
+    "price":"9.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Fish",
+    "name":"Whiting",
+    "description":"Two pieces with one side.",
+    "price":"9.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Salads",
+    "name":"Chef Salad",
+    "description":null,
+    "price":"9.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Salads",
+    "name":"Grilled Chicken Salad",
+    "description":null,
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Salads",
+    "name":"Side Salad",
+    "description":null,
+    "price":"3.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Kid's Meal",
+    "name":"Wings (4 pcs)",
+    "description":null,
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Kid's Meal",
+    "name":"Tender (1 pc)",
+    "description":null,
+    "price":"4.5 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Extras",
+    "name":"Slice of Bread",
+    "description":null,
+    "price":"0.5 USD"
+  },
+  {
+    "restaurant_id":17,
+    "category":"Extras",
+    "name":"Drink",
+    "description":null,
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"New! Crustless Pizzas - Keto Friendly (Baking Required)",
+    "name":"Chicken Bacon Artichoke - Keto Friendly (Baking Required)",
+    "description":"Creamy Garlic Sauce, Whole-Milk Mozzarella, Grilled Chicken Raised Without Antibiotics, Crispy Bacon, Marinated Artichoke Hearts, Fresh Spinach, Aged Parmesan and Zesty Herbs without the Crust. This recipe is Keto-friendly, but still fully customizable. Macros for this entire tray with the default build are Fats: 89g, Proteins: 91g, Carbs: 21g",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"New! Crustless Pizzas - Keto Friendly (Baking Required)",
+    "name":"Cowboy - Keto Friendly (Baking Required)",
+    "description":"Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Italian Sausage, Sliced Mushrooms, Black Olives, Cheddar, and Herb &amp; Cheese Blend without the Crust. \n\nTo make this Keto-friendly, simply change the Traditional Red Sauce to Creamy Garlic Sauce or Olive Oil &amp; Garlic Sauce. Macros for this entire tray with the default build are Fats: 100g, Proteins: 75g, Carbs: 28g",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"New! Crustless Pizzas - Keto Friendly (Baking Required)",
+    "name":"Create Your Own Crustless - Keto Friendly (Baking Required)",
+    "description":"Choose your sauce (or no sauce at all!) and add up to 5 toppings for best results.  Toppings that are Keto-friendly are marked with \"KF\".",
+    "price":"9.0 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"New! Crustless Pizzas - Keto Friendly (Baking Required)",
+    "name":"Gourmet Vegetarian - Keto Friendly (Baking Required)",
+    "description":"Creamy Garlic Sauce, Whole-Milk Mozzarella, Fresh Spinach, Sliced Zucchini, Sliced Mushrooms, Marinated Artichoke Hearts, Roma Tomatoes, Mixed Onions, Cheddar, and Herb &amp; Cheese Blend. This recipe is Keto-friendly, but still fully customizable. Macros for this entire tray with the default build are Fats: 79g, Proteins: 57g, Carbs: 23g",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"New! Crustless Pizzas - Keto Friendly (Baking Required)",
+    "name":"Papa's All Meat - Keto Friendly (Baking Required)",
+    "description":"Traditional Red Sauce, Whole-Milk Mozzarella, Canadian Bacon, Salami, Premium Pepperoni, Italian Sausage and Ground Beef, and Cheddar. \n\nTo make this Keto-friendly, simply change the Traditional Red Sauce to Creamy Garlic Sauce or Olive Oil &amp; Garlic Sauce. Macros for this entire tray with the default build are Fats: 108g, Proteins: 88g, Carbs: 25g",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"New! Crustless Pizzas - Keto Friendly (Baking Required)",
+    "name":"Papa's Favorite - Keto Friendly (Baking Required)",
+    "description":"Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Italian Sausage, Ground Beef, Sliced Mushrooms, Mixed Onions, Green Peppers, Black Olives, and Cheddar. To make this Keto-friendly, simply change the Traditional Red Sauce to Creamy Garlic Sauce or Olive Oil &amp; Garlic Sauce. Macros for this entire tray with the default build are Fats: 104g, Proteins: 77g, Carbs: 33g",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Signature Pizza (Baking Required)",
+    "name":"Cowboy (Baking Required)",
+    "description":"Our Original Crust topped with Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Italian Sausage, Sliced Mushrooms, Black Olives, Cheddar, and Herb &amp; Cheese Blend. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Signature Pizza (Baking Required)",
+    "name":"Papa's Favorite\u00c2\u00ae (Baking Required)",
+    "description":"Our Original Crust topped with Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Italian Sausage, Ground Beef, Sliced Mushrooms, Mixed Onions, Green Peppers, Black Olives, and Cheddar. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Signature Pizza (Baking Required)",
+    "name":"Murphy's Combo (Baking Required)",
+    "description":"Our Original Crust topped with Traditional Red Sauce, Whole-Milk Mozzarella, Salami, Premium Pepperoni, Italian Sausage, Sliced Mushrooms, Mixed Onions and Black Olives, and Cheddar. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Signature Pizza (Baking Required)",
+    "name":"Chicken Garlic (Baking Required)",
+    "description":"Our Original Crust topped with Creamy Garlic Sauce, Whole-Milk Mozzarella, Grilled Chicken Raised Without Antibiotics, Roma Tomatoes, Green Onions, Cheddar, and Herb &amp; Cheese Blend. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Signature Pizza (Baking Required)",
+    "name":"Papa's All Meat (Baking Required)",
+    "description":"Our Original Crust topped with Traditional Red Sauce, Whole-Milk Mozzarella, Canadian Bacon, Salami, Premium Pepperoni, Italian Sausage and Ground Beef, and Cheddar. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Signature Pizza (Baking Required)",
+    "name":"Rancher",
+    "description":"Our Original Crust topped with Traditional Red Sauce, Whole-Milk Mozzarella, Canadian Bacon, Premium Pepperoni, Ground Beef, Mixed Onions, and Cheddar.",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Gourmet Delite Pizza (Baking Required)",
+    "name":"Chicken Bacon Artichoke (Baking Required)",
+    "description":"Our Artisan Thin Crust, topped with Creamy Garlic Sauce, Whole-Milk Mozzarella, Grilled Chicken Raised Without Antibiotics, Crispy Bacon, Marinated Artichoke Hearts, Fresh Spinach, Aged Parmesan and Zesty Herbs. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Gourmet Delite Pizza (Baking Required)",
+    "name":"Herb Chicken Mediterranean (Baking Required)",
+    "description":"Our Artisan Thin Crust, topped with Olive Oil, Chopped Garlic, Whole-Milk Mozzarella, Grilled Chicken Raised Without Antibiotics, Fresh Spinach, Sun-dried Tomatoes, Crumbled Feta and Zesty Herbs. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Gourmet Delite Pizza (Baking Required)",
+    "name":"Gourmet Vegetarian (Baking Required)",
+    "description":"Our Artisan Thin Crust, topped with Creamy Garlic Sauce, Whole-Milk Mozzarella, Fresh Spinach, Sliced Zucchini, Sliced Mushrooms, Marinated Artichoke Hearts, Roma Tomatoes, Mixed Onions, Cheddar, and Herb &amp; Cheese Blend. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Gourmet Delite Pizza (Baking Required)",
+    "name":"Thai Chicken(Baking Required)",
+    "description":"Our Artisan Thin Crust topped with Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Fresh Spinach, Black Olives, Roma Tomatoes, Feta Cheese, and Zesty Herbs. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Gourmet Delite Pizza (Baking Required)",
+    "name":"Tuscan Chicken and Sausage ( Baking Required)",
+    "description":"Our Artisan Thin Crust topped with Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Fresh Spinach, Black Olives, Roma Tomatoes, Feta Cheese, and Zesty Herbs. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"5-Meat Stuffed (Baking Required) Family",
+    "description":"Two layers of our Original Crust stuffed with Traditional Red Sauce, Whole-Milk Mozzarella, Canadian Bacon, Premium Pepperoni, Italian Sausage, Crispy Bacon and topped with Traditional Red Sauce, Ground Beef, Mozzarella and Mild Cheddar.",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"5-Meat Stuffed (Baking Required) Large",
+    "description":"Two layers of our Original Crust stuffed with Traditional Red Sauce, Whole-Milk Mozzarella, Canadian Bacon, Premium Pepperoni, Italian Sausage, Crispy Bacon and topped with Traditional Red Sauce, Ground Beef, Mozzarella and Mild Cheddar.",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"Chicago-Styled Stuffed (Baking Required) Family",
+    "description":"Two layers of our Original Crust stuffed with Traditional Red Sauce, Whole-Milk Mozzarella, Salami, Premium Pepperoni, Italian Sausage, Ground Beef, Mixed Onions and topped with Traditional Red Sauce, Green Onions, Roma Tomatoes, Mozzarella and Mild Cheddar. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"Chicago-Styled Stuffed (Baking Required) Large",
+    "description":"Two layers of our Original Crust stuffed with Traditional Red Sauce, Whole-Milk Mozzarella, Salami, Premium Pepperoni, Italian Sausage, Ground Beef, Mixed Onions and topped with Traditional Red Sauce, Green Onions, Roma Tomatoes, Mozzarella and Mild Cheddar. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"Big Murphy's Stuffed (Baking Required) Large",
+    "description":"Two layers of our Original Crust stuffed with Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Italian Sausage, Sliced Mushrooms and Black Olives topped with Traditional Red Sauce, Green Peppers, Roma Tomatoes, Mild Cheddar and Herb &amp; Cheese Blend. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"Big Murphy's Stuffed (Baking Required) Family",
+    "description":"Two layers of our Original Crust stuffed with Traditional Red Sauce, Whole-Milk Mozzarella, Premium Pepperoni, Italian Sausage, Sliced Mushrooms and Black Olives topped with Traditional Red Sauce, Green Peppers, Roma Tomatoes, Mild Cheddar and Herb &amp; Cheese Blend. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"Chicken Bacon Stuffed (Baking Required) Large",
+    "description":"Two layers of our Original Crust stuffed with Creamy Garlic Sauce, Whole-Milk Mozzarella, Grilled Chicken Raised Without Antibiotics, Crispy Bacon, Roma Tomatoes, Mixed Onions and topped with Creamy Garlic Sauce, Roma Tomatoes, Crispy Bacon, Mozzarella and Mild Cheddar. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"14.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Stuffed Pizza (Baking Required)",
+    "name":"Chicken Bacon Stuffed (Baking Required) Family",
+    "description":"Two layers of our Original Crust stuffed with Creamy Garlic Sauce, Whole-Milk Mozzarella, Grilled Chicken Raised Without Antibiotics, Crispy Bacon, Roma Tomatoes, Mixed Onions and topped with Creamy Garlic Sauce, Roma Tomatoes, Crispy Bacon, Mozzarella and Mild Cheddar. OUR PIZZA. YOUR OVEN. NOT AS CRAZY AS IT SOUNDS.",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Scratch-Made 5-Cheese Bread (Baking Required)",
+    "description":"Fresh dough topped with our Herb Garlic Spread, \u00c2\u00bc pound of Whole-Milk Mozzarella, Herb &amp; Cheese Blend, and Mild Cheddar Cheese served with a side of Marinara.",
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Chocolate Chip Cookie Dough (Baking Required)",
+    "description":"Fresh-made in house with Semi-Sweet Chocolate Chips.",
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Cinnamon Wheel (Baking Required)",
+    "description":"Our Original Crust topped with Cinnamon Spread, Oatmeal Crisp Topping, served with Cream Cheese Frosting.",
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"S\u00e2\u20ac\u2122mores Bars",
+    "description":"Chocolate chip cookie dough topped with marshmallows, crisp topping, and even more chocolate chips.",
+    "price":"6.0 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Soft Drink (2-Liter Pepsi Product)",
+    "description":null,
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Garden Salad",
+    "description":"Romaine lettuce topped with green peppers, Roma tomatoes, black olives, whole milk mozzarella, and mild cheddar cheeses.",
+    "price":"5.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Club Salad",
+    "description":"Romaine lettuce topped with crispy bacon, Canadian bacon, Roma tomatoes, whole milk mozzarella, and mild cheddar cheese.",
+    "price":"5.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Caesar Salad",
+    "description":"Romaine lettuce topped with shredded aged parmesan cheese.",
+    "price":"5.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Mediterranean  Salad",
+    "description":"Romaine lettuce and fresh spinach topped with black olives, sun dried tomatoes, mixed onions, and crumbled feta cheese.",
+    "price":"5.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Mini Murph Cheese",
+    "description":"Make 'n' Bake Pizza Kit with Red Sauce &amp; Mozzarella.",
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Starters, Sides, Desserts and Beverages",
+    "name":"Mini Murph Pepperoni",
+    "description":"Make 'n' Bake Pizza Kit with Red Sauce, Mozzarella &amp; Pepperoni.",
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":18,
+    "category":"Create Your Own",
+    "name":"Create Your Own",
+    "description":"Choose your size and one of our fresh dough options, and then top your pizza with everyone's favorites .",
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Picked for you",
+    "name":"Make Your Plate",
+    "description":null,
+    "price":"9.49 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Picked for you",
+    "name":"Make Your Sandwich",
+    "description":null,
+    "price":"7.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Picked for you",
+    "name":"Hummus",
+    "description":null,
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Picked for you",
+    "name":"Baba Ghannoug",
+    "description":"small includes 1 pita.\nlarge includes 2 pitas.",
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Picked for you",
+    "name":"Jerusalem Salad",
+    "description":null,
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Main Dishes",
+    "name":"Make Your Sandwich",
+    "description":null,
+    "price":"7.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Main Dishes",
+    "name":"Make Your Plate",
+    "description":null,
+    "price":"9.49 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Hummus",
+    "description":null,
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Jerusalem Salad",
+    "description":null,
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Baba Ghannoug",
+    "description":"small includes 1 pita.\nlarge includes 2 pitas.",
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Chopped Salad",
+    "description":null,
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Yogurt Salad",
+    "description":"Served with Cucumber, Mint.",
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"White Rice",
+    "description":null,
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Fries",
+    "description":null,
+    "price":"2.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Falafel",
+    "description":null,
+    "price":"0.0 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Sides",
+    "name":"Pita",
+    "description":null,
+    "price":"0.0 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Beverages",
+    "name":"Soda",
+    "description":null,
+    "price":"1.99 USD"
+  },
+  {
+    "restaurant_id":19,
+    "category":"Beverages",
+    "name":"Bottled Water",
+    "description":null,
+    "price":"1.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Picked for you",
+    "name":"Beast Style Burger Combo",
+    "description":"Smashed crispy beef patties with house seasoning, American cheese, pickles, diced white onion, mayo, ketchup, and brown mustard on a soft roll served with your choice of seasoned or Beast style fries and a drink.  ",
+    "price":"13.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Picked for you",
+    "name":"Karl's Deluxe",
+    "description":"A patty melt served Karl\u00e2\u20ac\u2122s Style with a crispy seasoned beef patty, caramelized onions &amp; cheese on a toasty inverted bun",
+    "price":"6.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Picked for you",
+    "name":"Impossible\u00e2\u201e\u00a2 Beast Style Combo",
+    "description":"Smashed crispy Impossible\u00e2\u201e\u00a2 patties with house seasoning, American cheese, pickles, diced white onion, mayo, ketchup, and brown mustard on a soft roll served with your choice of seasoned or Beast style fries and a drink.  ",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Picked for you",
+    "name":"Nashville Hot Chicken Tender Sandwich",
+    "description":"with mayo, ketchup, shredded lettuce and pickles",
+    "price":"7.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Picked for you",
+    "name":"Impossible\u00e2\u201e\u00a2 Chandler Style ",
+    "description":"Two smashed crispy Impossible\u00e2\u201e\u00a2 patties with house seasoning, served plain with American cheese on a bun",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Combos ",
+    "name":"Beast Style Burger Combo",
+    "description":"Smashed crispy beef patties with house seasoning, American cheese, pickles, diced white onion, mayo, ketchup, and brown mustard on a soft roll served with your choice of seasoned or Beast style fries and a drink.  ",
+    "price":"13.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Combos ",
+    "name":"Chicken Sandwich Combo",
+    "description":"A Crispy Chicken Tender Sandwich or Nashville Hot Chicken Tender Sandwich with your choice of seasoned or Beast style fries and a drink. ",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Burgers",
+    "name":"Karl's Deluxe",
+    "description":"A patty melt served Karl\u00e2\u20ac\u2122s Style with a crispy seasoned beef patty, caramelized onions &amp; cheese on a toasty inverted bun",
+    "price":"6.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Burgers",
+    "name":"Beast Style",
+    "description":"Smashed crispy beef patties with house seasoning, American cheese, pickles, diced white onion, mayo, ketchup, and brown mustard on a soft roll",
+    "price":"7.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Burgers",
+    "name":"Chandler Style ",
+    "description":"Two smashed crispy beef patties with house seasoning, served plain with American cheese on a bun",
+    "price":"7.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Burgers",
+    "name":"Chris Style  ",
+    "description":"Two smashed crispy beef patties with house seasoning, American cheese, bacon, topped with crinkle fries  ",
+    "price":"8.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Impossible\u00e2\u201e\u00a2 Burgers ",
+    "name":"Impossible\u00e2\u201e\u00a2 Beast Style Combo",
+    "description":"Smashed crispy Impossible\u00e2\u201e\u00a2 patties with house seasoning, American cheese, pickles, diced white onion, mayo, ketchup, and brown mustard on a soft roll served with your choice of seasoned or Beast style fries and a drink.  ",
+    "price":"16.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Impossible\u00e2\u201e\u00a2 Burgers ",
+    "name":"Impossible\u00e2\u201e\u00a2 Karl's Deluxe",
+    "description":"A patty melt served Karl\u00e2\u20ac\u2122s Style with a crispy seasoned Impossible\u00e2\u201e\u00a2 patty, caramelized onions and cheese on a toasty inverted bun",
+    "price":"10.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Impossible\u00e2\u201e\u00a2 Burgers ",
+    "name":"Impossible\u00e2\u201e\u00a2 Beast Style ",
+    "description":"Smashed crispy Impossible\u00e2\u201e\u00a2 patties with house seasoning, American cheese, pickles, diced white onion, mayo, ketchup, and brown mustard on a soft roll",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Impossible\u00e2\u201e\u00a2 Burgers ",
+    "name":"Impossible\u00e2\u201e\u00a2 Chandler Style ",
+    "description":"Two smashed crispy Impossible\u00e2\u201e\u00a2 patties with house seasoning, served plain with American cheese on a bun",
+    "price":"11.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Impossible\u00e2\u201e\u00a2 Burgers ",
+    "name":"Impossible\u00e2\u201e\u00a2 Chris Style  ",
+    "description":"Two smashed crispy Impossible\u00e2\u201e\u00a2 patties with house seasoning, American cheese, bacon, topped with crinkle fries  ",
+    "price":"12.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Sandwiches",
+    "name":"Karl\u00e2\u20ac\u2122s Grilled Cheese ",
+    "description":"3 slices of American cheese griddled crisp on an inverted bun",
+    "price":"4.99 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Sandwiches",
+    "name":"Crispy Chicken Tender Sandwich",
+    "description":"with mayo, shredded lettuce and pickles",
+    "price":"7.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Sandwiches",
+    "name":"Nashville Hot Chicken Tender Sandwich",
+    "description":"with mayo, ketchup, shredded lettuce and pickles",
+    "price":"7.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Sides",
+    "name":"Crinkle Fries",
+    "description":"Crinkle fries seasoned with spicy red pepper, garlic, paprika, sugar, and a hint of lime",
+    "price":"3.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Sides",
+    "name":"Beast Style Fries ",
+    "description":"Seasoned crinkle fries loaded with caramelized onions, American cheese, pickles, mayo, ketchup and mustard",
+    "price":"5.29 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Dessert",
+    "name":"Chocolate Chip Cookie",
+    "description":"Freshly baked chocolate chip cookie",
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Bottled Beverages",
+    "name":"Bottled Soda",
+    "description":null,
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":20,
+    "category":"Bottled Beverages",
+    "name":"Bottled Water",
+    "description":null,
+    "price":"2.49 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Picked for you",
+    "name":"Pink Starburst",
+    "description":"Tropical, pomegranate, wildberry, and whey protein.",
+    "price":"9.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Picked for you",
+    "name":"Strawberry Coconut",
+    "description":"Strawberry, lime, lemon, collagen, and coconut.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Picked for you",
+    "name":"Apple Pie Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"10.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Picked for you",
+    "name":"Strawberry Icing Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"10.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Picked for you",
+    "name":"Cherry Limeade",
+    "description":"Cherry, lime, raspberry, and collagen.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Tropical Paradise",
+    "description":"Tropical fruit, lemon, and mandarin. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Lemon Berry",
+    "description":"Pomegranate, lemon, and mango. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Ohh Snap",
+    "description":"Pomegranate, raspberry, and cranberry. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Tang Good",
+    "description":"Orange, lemon, and mandarin. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Peachy Keen",
+    "description":"Orange, peach, and mango. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Russian Twist",
+    "description":"Orange, chai, and mango. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Pom Pom",
+    "description":"Pomegranate, pomegranate, and mango. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Cranberry Limeade",
+    "description":"Lime, lemon, and cranberry. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Lime Skittle",
+    "description":"Lime, pomegranate, and cranberry. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Hot Tamale",
+    "description":"Pomegranate, cinnamon, and cranberry. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Teas",
+    "name":"Just Peachy",
+    "description":"Pomegranate, peach, and cranberry. Clean energy, boosts mood, helps you focus, burns calories, soothes stomach, no sugar, and aids in digestion.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Watermelon Sugar",
+    "description":"Watermelon, tropical, raspberry, pomegranate, and collagen.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"What the Melon",
+    "description":"Watermelon, orange, raspberry, mango, and collagen.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Tropic Like It's Hot",
+    "description":"Strawberry, tropical, lemon, mango, and collagen.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Peach Ring",
+    "description":"Peach, orange, passion fruit, and collagen.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Cherry Limeade",
+    "description":"Cherry, lime, raspberry, and collagen.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Squeeze the Day",
+    "description":"Watermelon, orange, lemon nitric oxide, and collagen.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Sweet Tart",
+    "description":"Blue razz, lime, lemon nitric oxide, and pomegranate.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Cool-Aid",
+    "description":"Cucumber, lime, lemon, collagen, and watermelon.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Mega Teas",
+    "name":"Strawberry Coconut",
+    "description":"Strawberry, lime, lemon, collagen, and coconut.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Specialty Drinks",
+    "name":"Matcha Latte",
+    "description":"Matcha and soy protein.",
+    "price":"8.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Specialty Drinks",
+    "name":"Bluberry Matcha",
+    "description":"Matcha, blueberry syrup, and soy protein.",
+    "price":"8.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Specialty Drinks",
+    "name":"Horchata",
+    "description":"Fat burner, soy protein, sugar free syrup, cinnamon, and nutmeg.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Specialty Drinks",
+    "name":"Lemonayyed",
+    "description":"All the flavor without the buzz.",
+    "price":"8.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Drinks - Specialty Drinks",
+    "name":"Pink Starburst",
+    "description":"Tropical, pomegranate, wildberry, and whey protein.",
+    "price":"9.0 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Our Favs",
+    "name":"Cinnamon Toast Crunch Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Our Favs",
+    "name":"Oreo Birthday Cake Shake Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Our Favs",
+    "name":"Chunky Monkey Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Our Favs",
+    "name":"Strawberry Icing Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"10.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Our Favs",
+    "name":"Lemon Pound Cake Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Our Favs",
+    "name":"Peanut Butter Brownie Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Our Favs",
+    "name":"Pb Banana Bread Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Peanut Butter Brownie Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Brownie Batter Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"No Bake Cookie Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Puppy Chow Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Thin Mint Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Turtle Cheesecake Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Snickers Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Reese's Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Chocolate",
+    "name":"Chocolate Pretzel Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Almond Wedding Cake Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Birthday Cake Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Cookies N Cream Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Cinnamon Roll Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Cookie Dough Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Dulce de Leche Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Sugar Cookie Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Salted Caramel Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Matcha Green Tea Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"PB Cookie Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"White Chocolate Pretzel Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Oatmeal Cream Pie Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Mint Chocolate Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Nutter Butter Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"White Chocolate Snickers Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"White Chocolate Reese's Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"Almond Cookie Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Vanilla",
+    "name":"PB Pancake Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Blueberry Muffin Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Lemon Blueberry Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Apple Pie Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"10.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Dreamsicle Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Orange Sherbet Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Blueberry Cheesecake Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"PB &amp; J Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Fruity Pebbles Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Cap'n Crunch Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"PB Banana Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Banana Bread Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Strawberry Banana Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Fruity",
+    "name":"Banana Caramel Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Coffee",
+    "name":"Caf\u00c3\u00a9 Mocha Shake",
+    "description":"Contains gluten. 200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Coffee",
+    "name":"Caf\u00c3\u00a9 Latte Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Coffee",
+    "name":"Coffee Cake Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Coffee",
+    "name":"Caramel Macchiato Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":21,
+    "category":"Shakes - Coffee",
+    "name":"Chocolate Banana Coffee Shake",
+    "description":"200 to 250 calories, 24 to 32 grams protein, 16 to 18 carbs, 9 sugars, and 4 grams fat. Made with soy protein.",
+    "price":"8.5 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Picked for you",
+    "name":"Mofongo",
+    "description":"The original Puerto Rican dish with fried green plantains mashed with fresh garlic and pork cracklings using a traditional wooden pilon. Served with rice and your choice of red or black beans and a side salad with MFC dressing.",
+    "price":"14.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Picked for you",
+    "name":"Pan con Bistec Sandwich Combo",
+    "description":"Thin cut Cuban palomilla steak, grilled onions, lettuce, tomatoes, and potato sticks served on fresh Cuban bread and finished on the panini press. Served with fries and a drink.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Picked for you",
+    "name":"Cafe con Leche",
+    "description":"Cuban coffee with steamed milk.",
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Picked for you",
+    "name":"Roasted Pork Plate",
+    "description":"Slow roasted pork seasoned with garlic and other satisfying flavors of the Caribbean. Served with rice and your choice of red or black beans and a side salad with MFC dressing.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Picked for you",
+    "name":"Bistec Salad",
+    "description":"Mfc salad with think cut Cuban palomilla steak seasoned to perfection.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Entrees",
+    "name":"Roasted Pork Plate",
+    "description":"Slow roasted pork seasoned with garlic and other satisfying flavors of the Caribbean. Served with rice and your choice of red or black beans and a side salad with MFC dressing.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Entrees",
+    "name":"Mofongo",
+    "description":"The original Puerto Rican dish with fried green plantains mashed with fresh garlic and pork cracklings using a traditional wooden pilon. Served with rice and your choice of red or black beans and a side salad with MFC dressing.",
+    "price":"14.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Entrees",
+    "name":"Bistec Plate",
+    "description":"Thin cut Cuban palomilla steak with grilled onions seasoned to perfection. Served with rice and your choice of red or black beans and a side salad with MFC dressing.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Entrees",
+    "name":"Masita Plate",
+    "description":"Seasoned with a Cuban style dry rub and deep fried. Topped with sauteed onions. Served with rice and your choice of red or black beans and a side salad with MFC dressing.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Entrees",
+    "name":"Caribbean Jerk Chicken",
+    "description":"Seared chicken breast topped with a fresh mango salsa. Served with rice and your choice of red or black beans and a side salad with MFC dressing.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sides",
+    "name":"Tostones",
+    "description":"Twice fried plantain slices.",
+    "price":"4.25 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sides",
+    "name":"Empanadas",
+    "description":"Puerto Rican style meat pie deep fried with your choice of beef, chicken, or ham and cheese.",
+    "price":"4.25 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sides",
+    "name":"Sweet Plantains",
+    "description":"Ripened plantains lightly fried.",
+    "price":"4.25 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sides",
+    "name":"Fried Yucca Sticks",
+    "description":"The crispier creamier cousin to French fried potatoes.",
+    "price":"4.25 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sides",
+    "name":"French Fries",
+    "description":"Specially seasoned.",
+    "price":"4.25 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Salads",
+    "name":"MFC House Salad",
+    "description":"Romaine lettuce, beefsteak tomatoes, and red onions. Topped with vinaigrette.",
+    "price":"7.45 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Salads",
+    "name":"Bistec Salad",
+    "description":"Mfc salad with think cut Cuban palomilla steak seasoned to perfection.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Salads",
+    "name":"Caribbean Jerk Chicken Salad",
+    "description":"Mfc salad with seared chicken breast topped with a fresh mango salsa.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Salads",
+    "name":"Roasted Pork Salad",
+    "description":"Mfc salad with slow roasted pork with Caribbean seasonings.",
+    "price":"10.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sandwich Combos",
+    "name":"Cuban Sandwich Combo",
+    "description":"Slow roasted pork, boars head sweet ham, and baby Swiss cheese with mustard and pickles served on fresh Cuban bread pressed to perfection on the panini press. Served with fries and a drink.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sandwich Combos",
+    "name":"Pan con Lechon Sandwich Combo",
+    "description":"Slow roasted pork with sauteed onions and seasoned mojo sauce served on fresh baked Cuban bread with lettuce and tomatoes. Served with fries and a drink.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Sandwich Combos",
+    "name":"Pan con Bistec Sandwich Combo",
+    "description":"Thin cut Cuban palomilla steak, grilled onions, lettuce, tomatoes, and potato sticks served on fresh Cuban bread and finished on the panini press. Served with fries and a drink.",
+    "price":"11.95 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Kids Mains",
+    "name":"Chicken Nuggets",
+    "description":"Served with fries and a drink.",
+    "price":"7.5 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Kids Mains",
+    "name":"Grilled Cheese Sandwich",
+    "description":"Served with fries and a drink.",
+    "price":"6.5 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Kids Mains",
+    "name":"Empanandas",
+    "description":"Served with fries and a drink.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Beverages",
+    "name":"Cuban Coffee",
+    "description":"Black Cuban style espresso with sugar.",
+    "price":"3.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Beverages",
+    "name":"Cafe con Leche",
+    "description":"Cuban coffee with steamed milk.",
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Beverages",
+    "name":"Fountain Drinks",
+    "description":null,
+    "price":"2.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Beverages",
+    "name":"Iced Tea",
+    "description":"Sweet or unsweetened.",
+    "price":"2.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Pastries",
+    "name":"Guava Pastry",
+    "description":"Baked fresh.",
+    "price":"3.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Pastries",
+    "name":"Cheese Pastry",
+    "description":"Baked fresh.",
+    "price":"3.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Pastries",
+    "name":"Guava and Cheese Pastry",
+    "description":"Baked fresh.",
+    "price":"3.0 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Dessert",
+    "name":"Jesus Cake",
+    "description":"Tres leches three kinds of milk cake.",
+    "price":"6.25 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Dessert",
+    "name":"Flan",
+    "description":"Vanilla bean custard with a caramel topping.",
+    "price":"6.25 USD"
+  },
+  {
+    "restaurant_id":22,
+    "category":"Dessert",
+    "name":"Bread Pudding",
+    "description":"Just like grandma used to make.",
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Picked for you",
+    "name":"Beyond Burger",
+    "description":"Served with Romaine lettuce, tomato, pickle, vegan mayonnaise, ketchup, and mustard on a toasted bun. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price":"9.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Picked for you",
+    "name":"Veggie Quesadilla",
+    "description":"Guacamole, salsa, sour cream, Monterey Jack cheese, grilled bell pepper, onion, mushroom, black olives, and spinach in a whole wheat tortilla. Served with black beans and brown rice.",
+    "price":"12.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Picked for you",
+    "name":"Grilled Cheese Sandwich",
+    "description":"Choice of cheddar, Swiss, Jack, or vegan cheese. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Picked for you",
+    "name":"Golden Temple Salad",
+    "description":"Romaine, spinach, spring mix, sprouts, guacamole, hummus, cheddar, Monterey Jack, feta, tomato, cucumber, bell pepper, onion, mushroom, and black olives.",
+    "price":"11.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Picked for you",
+    "name":"Build Your Own Smoothie",
+    "description":null,
+    "price":"6.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Kids Menu",
+    "name":"Kids Cheese Quesadilla",
+    "description":"Whole wheat tortilla with Monterey Jack cheese. Served with tortilla chips and salsa.",
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Kids Menu",
+    "name":"Peanut Butter, Honey, and Banana Sandwich",
+    "description":"On whole wheat bread. Served with kettle potato chips.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Kids Menu",
+    "name":"Cup of Soup (8 oz)",
+    "description":null,
+    "price":"4.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Beverages",
+    "name":"Hot Tea",
+    "description":null,
+    "price":"2.5 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Beverages",
+    "name":"Iced Tea",
+    "description":null,
+    "price":"2.5 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Beverages",
+    "name":"Whole Fruit Smothies",
+    "description":null,
+    "price":"6.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Beverages",
+    "name":"Organic Carrot Juice",
+    "description":null,
+    "price":"6.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Slice of Bread",
+    "description":null,
+    "price":"0.5 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Extra Cheese",
+    "description":null,
+    "price":"2.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Gluten-Free Bread",
+    "description":null,
+    "price":"2.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Side Scoop",
+    "description":null,
+    "price":"2.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Side of Tortilla Chips",
+    "description":null,
+    "price":"2.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Side of Potato Chips",
+    "description":null,
+    "price":"2.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Beyond Burger Patty",
+    "description":null,
+    "price":"4.5 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Boca Chik'n Patty",
+    "description":null,
+    "price":"4.5 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Bowl of Black Beans (16 oz)",
+    "description":null,
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Extras",
+    "name":"Bowl of Rice (16 oz)",
+    "description":null,
+    "price":"5.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Mains",
+    "name":"Build Your Own Smoothie",
+    "description":null,
+    "price":"6.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Salads",
+    "name":"Golden Temple Salad",
+    "description":"Romaine, spinach, spring mix, sprouts, guacamole, hummus, cheddar, Monterey Jack, feta, tomato, cucumber, bell pepper, onion, mushroom, and black olives.",
+    "price":"11.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Salads",
+    "name":"Greek Salad",
+    "description":"Romaine, spinach, spring mix, feta, tomato, cucumber, onion, mushroom, and Kalamata olives. Served with whole wheat pita.",
+    "price":"11.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Salads",
+    "name":"Guacamole Salad",
+    "description":"Romaine, spinach, spring mix, guacamole, tomato, cucumber, and Kalamata olives.",
+    "price":"11.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Salads",
+    "name":"Tofu Salad",
+    "description":"Romaine, spinach, spring mix, guacamole, tomato, cucumber, and Kalamata olives.",
+    "price":"11.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Salads",
+    "name":"Veggie Salad",
+    "description":"Romaine, spinach, spring mix, guacamole, tomato, cucumber, bell pepper, onion, mushroom, and Kalamata olives.",
+    "price":"7.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Salads",
+    "name":"Dinner Salad",
+    "description":"Romaine, spinach, spring mix, tomato, and cucumber.",
+    "price":"4.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Salads",
+    "name":"Small Dinner Salad and Regular Soup Combo",
+    "description":null,
+    "price":"8.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Specialties",
+    "name":"Golden Temple Stack",
+    "description":"Guacamole, salsa, sour cream, Monterey Jack cheese, black beans, and brown rice layered in a bowl.",
+    "price":"9.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Specialties",
+    "name":"Veggie Quesadilla",
+    "description":"Guacamole, salsa, sour cream, Monterey Jack cheese, grilled bell pepper, onion, mushroom, black olives, and spinach in a whole wheat tortilla. Served with black beans and brown rice.",
+    "price":"12.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Specialties",
+    "name":"Burrito Supreme",
+    "description":"Guacamole, salsa, sour cream, Monterey Jack cheese, black beans. grilled bell pepper, onion, mushroom, black olives in a whole wheat tortilla. Served with brown rice.",
+    "price":"12.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Specialties",
+    "name":"Mexican Pizza",
+    "description":"Salsa, black beans, bell pepper, onion, mushroom, black olives, and Monterey Jack cheese broiled on a whole tortilla.",
+    "price":"12.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Specialties",
+    "name":"Nachos Supreme",
+    "description":"Broiled Monterey Jack cheese on corn tortilla chips and black beans. Topped with guacamole, salsa, and sour cream.",
+    "price":"11.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Sandwiches",
+    "name":"Golden Temple Sandwich",
+    "description":"Served with sprouts, swiss, and tomato. Choice of guacamole or hummus. Choice of mushroom or olives. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price":"10.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Sandwiches",
+    "name":"Beyond Burger",
+    "description":"Served with Romaine lettuce, tomato, pickle, vegan mayonnaise, ketchup, and mustard on a toasted bun. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price":"9.0 USD"
+  },
+  {
+    "restaurant_id":23,
+    "category":"Sandwiches",
+    "name":"Boca Chik'n Sandwich",
+    "description":"Served with Romaine lettuce, tomato, pickle, vegan mayonnaise, ketchup, and mustard on a toasted bun. Sandwich made with whole wheat bread. Can be made as a wrap in a whole wheat tortilla. Served with kettle potato chips or corn tortilla chips.",
+    "price":"9.0 USD"
+  }
+]
